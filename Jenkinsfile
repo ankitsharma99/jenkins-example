@@ -6,13 +6,14 @@ pipeline {
 				echo "building..."
 				echo "testing auto trigger..."
 				echo "does not work..."
-				echo "hello jenkins"
+				echo "hell...."
 			}
 			
 		}
 		stage("test") {
 			steps {
 				echo "testing..."
+				echo "OK tested..."
 			}
 		}
 		stage("deploy") {
