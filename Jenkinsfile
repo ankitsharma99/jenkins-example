@@ -6,7 +6,7 @@ pipeline {
 				echo "building..."
 				echo "testing auto trigger..."
 				echo "does not work..."
-				echo "hell...."
+				echo "hello world"
 			}
 			
 		}
